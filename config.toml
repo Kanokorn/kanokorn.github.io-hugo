@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "May Chongnguluam"
+theme = "ananke"
+
+[params]
+  favicon = ""
+  description = ""
+  github = "https://github.com/Kanokorn"
+  linkedin = "https://www.linkedin.com/in/kanokorn-chongnguluam-85174972/"
+  background_color_class = "bg-black"
